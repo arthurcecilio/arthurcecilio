@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I am Arthur. 👋
 
-<!--
-**arthurcecilio/arthurcecilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking for an opportunity to star on IT areas.
 
-Here are some ideas to get you started:
+- 🔭 I’m an Electrical Engineercurrently working as a Industrial Maintenance Analyst
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
+- 📫 How to reach me:
+      - E-mail: arthurcecilio@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcecilio)](https://github.com/arthurcecilio/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
